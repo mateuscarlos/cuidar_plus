@@ -8,7 +8,7 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Executar](#como-executar)
 - [Próximos Passos](#próximos-passos)
-
+- [Licença](#licença)
 
 ---
 
@@ -77,3 +77,6 @@ Para rodar a aplicação completa, clone também o [repositório das apis](https
 - Melhoria na experiência do usuário (UX).
 
 ---
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
