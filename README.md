@@ -60,7 +60,7 @@ A aplicação está organizada em três áreas principais:
   - [Python](https://www.python.org): Linguagem principal do backend.
 
 - **Banco de Dados**:
-  - [SQLite](https://sqlite.org/index.html): Banco de dados leve e integrado (em fases futuras do projeto).
+  - [SQLite](https://sqlite.org/index.html): Banco de dados leve e integrado.
 
 ---
 
